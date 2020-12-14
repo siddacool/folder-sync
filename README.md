@@ -1,6 +1,6 @@
 #  Folder Sync
 
-Sync 📃 Documents, 💾 Save Games and much more to github
+Sync 📃 Documents, 💾 Save Games and much more using git.
 
 
 ## Setup
