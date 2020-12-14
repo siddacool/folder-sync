@@ -1,0 +1,6 @@
+sync.bat
+deploy.sh
+sync.sh
+
+# ignore all logs
+*.log
