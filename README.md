@@ -1,5 +1,8 @@
 #  Folder Sync
 
+Sync 📃 Documents, 💾 Save Games and much more to github
+
+
 ## Setup
 
 ### Git (for Beginners)
