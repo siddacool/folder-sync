@@ -15,3 +15,9 @@ Sync 📃 Documents, 💾 Save Games and much more to github
 
 ## Run 
 Click on `sync.sh`
+
+
+---
+
+Inspired by
+https://github.com/kerpak/KerbalSyncProgram
