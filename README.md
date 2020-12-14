@@ -7,7 +7,7 @@ Sync 📃 Documents, 💾 Save Games and much more using git.
 
 ### Git (for Beginners)
 * install git on windows https://git-scm.com/
-* Craete a private repo on github/gitlab and do the setup
+* Create a private repo on github/gitlab and follow the setup steps
 
 ### Sync file
 * Duplicate `sync.sh.sample` to `sync.sh`
